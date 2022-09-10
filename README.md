@@ -1,4 +1,4 @@
-#Flux Demo App
+# Flux Demo App
 
 This is a basic flux v2 deployment for a demo application on a KIND Cluster.
 
